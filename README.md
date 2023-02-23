@@ -1,4 +1,4 @@
-### Hi there 👋
+----- Hi there 👋
 * 👂 You can call me Foxyyy
 * 🔭 I’m currently working on image segmentation 
 * 🌱 I’m currently learning computer vision and cryptography
